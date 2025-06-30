@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Html,CSS,JS,Python
 - 💞️ I’m looking to collaborate on ... Everything
-- 📫 How to reach me ... insta-@aloooobhujiaa
+- 📫 How to reach me ... insta-@kindacloddish
 
 <!---
 Ayush-apt/Ayush-apt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
