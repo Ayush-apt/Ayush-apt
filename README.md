@@ -3,4 +3,5 @@
 -  I’m looking to collaborate on development related projects
 -  I'm currently learning Data Structures & Algorithms in C++
 - 📫 How to reach me(Gmail) -> ayushkumarprajapati272007@gmail.com
-
+-  LinkedIn -> [Ayush Kumar Prajapati](https://www.linkedin.com/in/ayush-kumar-prajapati-897246412/)
+-  LeetCode -> [kindaclumsy](https://leetcode.com/u/kindaclumsy/)
