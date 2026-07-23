@@ -1,125 +1,141 @@
 <div align="center">
 
-# Ayush Kumar Prajapati
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ayush;Learning+DSA+in+C%2B%2B;Building+with+JavaScript;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 
-### Student • DSA in C++ • Future Full‑Stack Developer
+### Student • C++ & DSA • Web Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+strong+fundamentals;Learning+Data+Structures+%26+Algorithms;Exploring+Modern+Web+Development;One+commit+at+a+time"/>
-
-<p>
-<a href="https://www.linkedin.com/in/ayush-kumar-prajapati-897246412/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/kindaclumsy/"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Ayush-apt&style=for-the-badge&color=22D3EE"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-prajapati-897246412/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kindaclumsy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-apt)
 
 </div>
 
 ---
 
-## About Me
+### About Me
 
-```cpp
-class Ayush {
-public:
-    string role = "Computer Science Student";
-    string currentFocus = "DSA in C++";
-    vector<string> web = {"HTML","CSS","JavaScript"};
-    string next = "React -> Backend -> Full Stack";
-};
-```
-
-- Learning by building projects and solving problems.
-- Strengthening problem-solving through DSA.
-- Documenting my journey publicly on GitHub.
-
----
-
-## Learning Roadmap
-
-```mermaid
-flowchart LR
-A[C++] --> B[STL]
-B --> C[Arrays]
-C --> D[Binary Search]
-D --> E[More DSA]
-E --> F[JavaScript]
-F --> G[React]
-G --> H[Backend]
-H --> I[Full Stack]
+```yaml
+whoami:
+  name: Ayush Kumar Prajapati
+  role: Student
+  currently_learning: [Data Structures & Algorithms in C++, JavaScript]
+  currently_building: Full Stack Development skills
+  goal: "Become an engineer with strong fundamentals"
+  philosophy: "Consistency beats intensity. Learn deeply before learning quickly."
 ```
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js&theme=dark"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+![Skills](https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode,linux&perline=8)
 
 </div>
 
 ---
 
-## GitHub
+### Learning Roadmap
+
+```
+[x] C++ Fundamentals
+    ├── [x] STL
+    ├── [x] OOP Basics
+    └── [x] Problem Solving
+
+[~] Data Structures & Algorithms
+    ├── [x] Arrays
+    ├── [x] Binary Search
+    ├── [ ] Strings
+    ├── [ ] Linked Lists
+    ├── [ ] Trees
+    ├── [ ] Graphs
+    └── [ ] Dynamic Programming
+
+[~] JavaScript
+    ├── [x] Fundamentals
+    ├── [x] DOM
+    ├── [ ] ES6+
+    └── [ ] Projects
+
+[ ] React
+[ ] Node.js
+[ ] Full Stack Development
+```
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DSA-CPP](https://github.com/Ayush-apt/DSA-CPP)**
+
+Data Structures & Algorithms in C++ — covering:
+- Algorithms & problem-solving patterns
+- Core data structures
+- STL usage
+- Competitive programming practice
+
+</td>
+<td width="50%" valign="top">
+
+**[JavaScript](https://github.com/Ayush-apt/JavaScript)**
+
+A clean collection of JS practice and projects:
+- Language fundamentals & DOM
+- Functions, Objects, Events
+- Asynchronous JavaScript
+- Full-stack fundamentals in progress
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Apple-Store](https://github.com/Ayush-apt/Apple-Store)**
+
+A front-end clone of the Apple Store built with:
+- HTML & CSS only
+- Focus on layout and visual design
+
+</td>
+<td width="50%" valign="top">
+
+**More coming soon**
+
+Currently working toward:
+- React
+- Node.js
+- Full-stack capstone projects
+
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Ayush-apt&theme=tokyonight&hide_border=true" width="48%" />
 
-<br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Ayush-apt&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-apt&theme=tokyo-night&hide_border=true&area=true" width="97%" />
 
 </div>
 
 ---
 
-## Current Learning
-
-| Path | Progress |
-|------|----------|
-| C++ Fundamentals | ████████████████████ |
-| Data Structures & Algorithms | ██████░░░░░░░░░░░░ (Arrays, Binary Search) |
-| JavaScript | ████████████░░░░░░ |
-| React | Not Started |
-| Backend | Not Started |
-
----
-
-## Featured Projects
-
-### DSA-CPP
-A growing collection of DSA implementations and practice in C++.
-
-**Repository:** https://github.com/Ayush-apt/DSA-CPP
-
----
-
-### JavaScript
-My JavaScript learning repository containing concepts, examples, and practice code.
-
-**Repository:** https://github.com/Ayush-apt/JavaScript
-
----
-
-## Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ayush-kumar-prajapati-897246412/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### Contribution Calendar
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/kindaclumsy/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a>
+<img src="https://ghchart.rshah.org/22D3EE/Ayush-apt" width="97%" alt="GitHub Contribution Chart" />
 
 </div>
 
@@ -127,6 +143,8 @@ My JavaScript learning repository containing concepts, examples, and practice co
 
 <div align="center">
 
-> *"Consistency compounds. Keep building."*
+**"Consistency beats intensity. Learn deeply before learning quickly."**
+
+From [Ayush-apt](https://github.com/Ayush-apt)
 
 </div>
