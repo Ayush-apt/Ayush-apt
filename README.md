@@ -74,8 +74,10 @@ HTML ─ CSS ─ JavaScript
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&theme=transparent&hide_border=true&show_icons=true&rank_icon=github"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Ayush-apt&theme=transparent&hide_border=true"/>
-</p>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+/>
 
 ---
 
@@ -147,7 +149,5 @@ https://github.com/Ayush-apt/JavaScript
 ---
 
 <div align="center">
-
-Thanks for visiting.
 
 </div>
