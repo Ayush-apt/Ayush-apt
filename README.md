@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:7C3AED,100:00D9FF&text=AYUSH%20KUMAR%20PRAJAPATI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Student%20•%20C%2B%2B%20•%20DSA%20•%20Web%20Development&descAlignY=58&animation=fadeIn" />
 </p>
@@ -160,4 +159,3 @@ A responsive frontend clone inspired by Apple's website.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050816,50:7C3AED,100:00D9FF"/>
 </p>
-````
