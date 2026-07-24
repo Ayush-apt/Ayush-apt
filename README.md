@@ -1,210 +1,163 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:7C3AED,100:00D9FF&text=AYUSH%20KUMAR%20PRAJAPATI&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=STUDENT%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20DSA%20%E2%80%A2%20WEB%20DEVELOPMENT&descAlignY=58&animation=fadeIn)](https://github.com/Ayush-apt)
+````md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:7C3AED,100:00D9FF&text=AYUSH%20KUMAR%20PRAJAPATI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Student%20•%20C%2B%2B%20•%20DSA%20•%20Web%20Development&descAlignY=58&animation=fadeIn" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=23&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Learning+Data+Structures+%26+Algorithms+in+C%2B%2B;Building+Projects+with+JavaScript;Working+Towards+Full+Stack+Development;Consistency+beats+intensity.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+strong+programming+fundamentals.;Learning+Data+Structures+%26+Algorithms.;Exploring+Modern+Web+Development.;Consistency+over+Intensity." />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ayush-apt&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)](https://github.com/Ayush-apt)
-[![Followers](https://img.shields.io/github/followers/Ayush-apt?label=FOLLOWERS&style=for-the-badge&color=00D9FF&logo=github)](https://github.com/Ayush-apt?tab=followers)
-[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-111827?style=for-the-badge&logo=github)](https://github.com/Ayush-apt?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Ayush-apt">
+    <img src="https://komarev.com/ghpvc/?username=Ayush-apt&style=for-the-badge&color=7C3AED" />
+  </a>
+  <a href="https://github.com/Ayush-apt?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ayush-apt?style=for-the-badge&logo=github&color=00D9FF" />
+  </a>
+</p>
 
 ---
 
-## `> SYSTEM.IDENTITY`
+# About
 
-```
-name: Ayush Kumar Prajapati
-role: Student | Aspiring Full Stack Developer
-focus: C++ | Data Structures & Algorithms | JavaScript
+I'm **Ayush Kumar Prajapati**, a Computer Science student focused on becoming a strong software engineer through fundamentals.
 
-mission:
-  - Build strong programming fundamentals
-  - Master problem solving through DSA
-  - Learn modern web development end to end
-  - Become an engineer with strong fundamentals
+Instead of rushing through technologies, I prefer mastering one concept at a time—starting with **C++**, **Data Structures & Algorithms**, and **JavaScript**, before moving deeper into the full-stack ecosystem.
 
-currently_exploring:
-  - Advanced Data Structures
-  - JavaScript ES6+
-  - React
-  - Node.js
-```
-
-My goal is to build a solid foundation before moving fast.
-
-```
-DEPTH BEFORE SPEED  •  PRACTICE BEFORE THEORY  •  CONSISTENCY BEFORE INTENSITY
+```txt
+Learn → Practice → Build → Debug → Improve → Repeat
 ```
 
 ---
 
-## `> TECH.STACK`
+# Tech Stack
 
-### Languages & Core
+### Languages
 
-[![](https://skillicons.dev/icons?i=cpp,js,html,css)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+</p>
 
-### Tools & Platforms
+### Tools
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-### Learning Next
+### Currently Learning
 
-[![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)](https://skillicons.dev)
-
----
-
-## `> FEATURED.PROJECTS`
-
-**DSA-CPP**
-[Repository](https://github.com/Ayush-apt/DSA-CPP)
-
-A structured collection of Data Structures & Algorithms practice in C++.
-
-Core Focus
-- Core data structures and algorithms
-- STL usage
-- Problem-solving patterns
-- Competitive programming practice
-
-Stack
-```
-C++    STL    Algorithms    DSA
-```
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
 
 ---
 
-**JavaScript**
-[Repository](https://github.com/Ayush-apt/JavaScript)
+# Featured Projects
 
-A clean collection of JavaScript practice, covering fundamentals through to full-stack basics.
+### DSA-CPP
 
-Core Focus
-- Language fundamentals and DOM manipulation
-- Functions, objects and events
-- Asynchronous JavaScript
-- Foundational full-stack concepts
+A structured repository containing Data Structures & Algorithms implementations in C++.
 
-Stack
-```
-JavaScript    DOM    Async JS    ES6+
-```
+**Focus**
 
----
+- STL
+- Problem Solving
+- Competitive Programming
+- Algorithmic Thinking
 
-**Apple-Store**
-[Repository](https://github.com/Ayush-apt/Apple-Store)
+**Repository**
 
-A front-end clone of the Apple Store interface.
-
-Core Focus
-- Layout and visual design
-- Semantic HTML structure
-- CSS-based styling, no frameworks
-
-Stack
-```
-HTML    CSS
-```
+> https://github.com/Ayush-apt/DSA-CPP
 
 ---
 
-## `> LEARNING.ROADMAP`
+### JavaScript
 
-```
-COMPLETED / PRACTISED
-├── C++ Fundamentals
-├── STL
-├── OOP Basics
-├── Arrays
-├── Binary Search
-├── JavaScript Fundamentals
-└── DOM Manipulation
+Practice repository covering JavaScript from fundamentals to modern ES6 concepts.
 
-CURRENTLY IMPROVING
-├── Strings
-├── Linked Lists
-├── Trees
-├── Graphs
-├── Dynamic Programming
-└── JavaScript ES6+
+**Focus**
 
-NEXT
-├── React
-├── Node.js
-└── Full Stack Development
-```
+- DOM
+- Functions
+- Async JavaScript
+- ES6+
+
+**Repository**
+
+> https://github.com/Ayush-apt/JavaScript
 
 ---
 
-## `> LEARNING.FLOW`
+### Apple Store Clone
 
-```
-C++
- │
- ▼
-STL
- │
- ▼
-Data Structures & Algorithms
- │
- ▼
-Problem Solving
- │
- ▼
-HTML, CSS, JavaScript
- │
- ▼
-React
- │
- ▼
-Node.js
- │
- ▼
-Full Stack Development
-```
+A responsive frontend clone inspired by Apple's website.
+
+**Built With**
+
+- HTML
+- CSS
+
+**Repository**
+
+> https://github.com/Ayush-apt/Apple-Store
 
 ---
 
-## `> GITHUB.ANALYTICS`
+# GitHub Statistics
 
-[![](https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF)](https://github.com/Ayush-apt)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-apt&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Ayush-apt)
+<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush-apt&theme=tokyonight&hide_border=true&background=050816&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/Ayush-apt)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/>
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-apt&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
 
-## `> CONTRIBUTION.ACTIVITY`
+</p>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-apt&bg_color=050816&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true)](https://github.com/Ayush-apt)
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Ayush-apt&theme=tokyonight&hide_border=true&background=050816&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF"/>
 
-## `> CONTRIBUTION.CALENDAR`
-
-[![GitHub Contribution Chart](https://ghchart.rshah.org/00D9FF/Ayush-apt)](https://github.com/Ayush-apt)
+</p>
 
 ---
 
-## `> OPEN.TO`
+# Current Focus
 
-[![Full Stack](https://img.shields.io/badge/FULL_STACK-DEVELOPMENT-111827?style=for-the-badge)](https://github.com/Ayush-apt)
-[![DSA](https://img.shields.io/badge/DSA-PRACTICE-7C3AED?style=for-the-badge)](https://github.com/Ayush-apt)
-[![Collaboration](https://img.shields.io/badge/OPEN_SOURCE-COLLABORATION-00D9FF?style=for-the-badge)](https://github.com/Ayush-apt)
-
----
-
-## `> CONNECT`
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-AYUSH_KUMAR_PRAJAPATI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-prajapati-897246412/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-KINDACLUMSY-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kindaclumsy/)
-[![GitHub](https://img.shields.io/badge/GITHUB-AYUSH--APT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-apt)
+- Advanced Data Structures
+- Trees & Graphs
+- Dynamic Programming
+- JavaScript ES6+
+- React
 
 ---
 
-```
-LEARN  →  PRACTICE  →  BUILD  →  DEBUG  →  IMPROVE  →  REPEAT
-```
+# Connect
 
-### Thanks for visiting my profile.
+<p align="left">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:7C3AED,100:00D9FF)](https://github.com/Ayush-apt)
+<a href="https://github.com/Ayush-apt">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-kumar-prajapati-897246412/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/kindaclumsy/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Depth before speed. Consistency before intensity."*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050816,50:7C3AED,100:00D9FF"/>
+</p>
+````
