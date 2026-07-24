@@ -104,18 +104,16 @@ A responsive frontend clone inspired by Apple's website.
 
 # GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush-apt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-apt&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-apt&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ayush-apt&theme=tokyonight&hide_border=true&background=050816&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF"/>
-
+  <img src="https://streak-stats.demolab.com?user=Ayush-apt&theme=tokyonight&hide_border=true&background=050816&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF"/>
 </p>
 
 ---
